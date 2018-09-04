@@ -10,7 +10,7 @@
 # end 
 
 class Dog
-  def .name=(name)
+  def name=(name)
     @name= name
   end 
 end
